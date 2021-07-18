@@ -1,0 +1,39 @@
+body {
+    font-family: roboto, sans-serif;
+    color: #707070;
+  }
+  h1 {
+    font-size: 60px;
+    margin: 20px 0;
+  }
+  h2, h4 {
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: #000;
+  }
+  .body-section {
+    width: 1200px;
+    padding: 60px 0;
+    margin: auto;
+    clear:both;
+  }
+  .div-area {
+   
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-bottom: 2%;                                                            
+  }
+  .services {
+    width: 25%;
+    float: left;
+    height: 300px;
+    margin: 0px 15px 20px 15px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    
+  }
+  #footer{
+    text-align: center;
+  }
